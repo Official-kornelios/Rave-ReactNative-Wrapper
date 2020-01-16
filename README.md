@@ -56,7 +56,7 @@ You can pull in react-native-rave-webview into app with the steps below;
      render() {
          return (
             <View  style={styles.container}>
-              <RaveWebView
+              <Rave
                 buttonText=  "PAY NOW"
                 raveKey="<your-api-key-here>"
                 amount={20000}
