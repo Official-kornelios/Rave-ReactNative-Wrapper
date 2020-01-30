@@ -21,11 +21,11 @@ You can pull in react-native-rave-webview into app with the steps below;
 
 ## Usage
 
-#### 1. import Rave Component
+#### 1. import Rave Component.
 
     import {Rave} from 'Rave-ReactNative-Wrapper';
 
- #### 2. Set your success, failure and close methods
+ #### 2. Set your success, failure and close methods.
 
 
 
